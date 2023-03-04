@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "imgUrl": "images/home_images/gandhi.jpg",
+    "title": "Gandhi and his Chakra",
+    "description": "This iconic image was captured in 1946, when LIFE magazine’s first female photographer, Margaret Bourke-White. Before shooting what would become Gandhi’s most defining portrait, Bourke-White had to face an interesting challenge – if she were to photograph Gandhi at the spinning wheel, she had to learn how to use one herself. Not ready to give up on the rare photo opportunity, Bourke-White learnt how to use the wheel, and went on to capture Gandhi’s most enduring image."
+  },
+  {
+    "id": 2,
+    "imgUrl": "images/home_images/chinese.jpg",
+    "title": "Tank Man",
+    "description": "In one of the strongest statements of dissent, an unidentified Chinese man stood in front of a column of tanks on June 5th, 1989 – the morning after the Chinese military had suppressed the Tiananmen Square protests. The crackdown had resulted in the deaths of hundreds of student demonstrators in Beijing. Captured by at least five famous photographers including Stuart Franklin, the image became a symbol of resistance in the face of oppression. Franklin won the World Press Photo Award for Spot News for the image, which still faces heavy censorship in China."
+  },
+  {
+    "id": 3,
+    "imgUrl": "images/home_images/terror.jpg",
+    "title": " The Terror of War",
+    "description": "Captured on June 8, 1972, by Associated Press photographer Nick Ut, this famous photograph presents the stark and harrowing reality of innocent victims of war. The Pulitzer Prize-winning image shows Vietnamese children running, injured from a napalm attack during the Vietnam War. The image was controversial for its full-frontal nudity, but many newspapers relaxed their policies on nudity to spread the anti-war image. At the centre of the photo is nine-year-old Kim Phuc, who ripped off her burning clothes while running. Nick Ut took the children to a hospital after photographing them, thereby saving their lives."
+  },
+  {
+    "id": 4,
+    "imgUrl": "images/home_images/steerage.jpg",
+    "title": " The Steerage",
+    "description": "This image was taken by Alfred Stieglitz, one of the most famous photographers of the early 20th Century. Stieglitz fought for photography to be taken as seriously as painting as a valid art form. His iconic image “The Steerage” not only encapsulates what he called straight photography – offering a truthful take on the world. It also gives us a more complex and multi-layered viewpoint that conveys abstraction through the shapes in the image. And how those shapes relate to one another."
+  },
+  {
+    "id": 5,
+    "imgUrl": "images/home_images/the falling man.jpg",
+    "title": "The Falling Man",
+    "description": "The man in this image is believed to be Jonathon Briley, who, like a number of people stuck on the burning Twin Towers on September 11, 2001, choosed to jump to his death from the tower. It was an image that immortalised the desperation of the situation for those trapped at the top of the Twin Towers after the attack. They were faced with a horrible dilemma, where jumping was the lesser of the two evils."
+  },
+
+  {
+    "id": 6,
+    "imgUrl": "images/home_images/holocaust.jpg",
+    "title": "The Holocaust",
+    "description": "The Holocaust is without doubt the worst atrocity in history, and resulted in the tragic loss of approximately 11 million people. 6 million of the victims were Jewish, and other groups targeted included homosexuals, Jehovah's Witnesses, disabled people and gypsies.The above photo shows the deplorable conditions the prisoners were forced to live in. May we never forget this abhorrent massacre of innocent lives."
+  },
+
+  {
+    "id": 7,
+    "imgUrl": "images/home_images/christmas.jpg",
+    "title": "The Christmas Truce",
+    "description": "The above photograph highlights the tragedy of war. The soldiers mostly had no quarrel with the men they were fighting against. There was an unofficial ceasefire on the Western Front in Christmas 1914, during the First World War. On Christmas Eve and Christmas Day, many soldiers, on both sides, would venture onto “no man’s land”, where they would chat and exchange food and souvenirs. Plenty of football was also played on Christmas Day between troops from opposing armies, as the image above proves."
+  },
+
+  {
+    "id": 8,
+    "imgUrl": "images/home_images/martin_luther_king.jpg",
+    "title": "\"I have a dream\"",
+    "description": "Martin Luther King, Jr. helped to organise the 1963 March on Washington, where he delivered the famous “I Have a Dream” speech, establishing himself as one of the greatest orators in history. He was pivotal in the advancement of civil rights using non-violent civil disobedience, which were based on his Christian beliefs."
+  },
+  {
+    "id": 9,
+    "imgUrl": "images/home_images/depression.png",
+    "title": "The Great Depression",
+    "description": "The women pictured above were arrested for stealing bread for their families during the Great Depression."
+  },
+  {
+    "id": 10,
+    "imgUrl": "images/home_images/the_wright_brothers.jpg",
+    "title": "The Wright Brothers",
+    "description": "Orville and Wilbur Wright were responsible for creating the world’s first successful airplane. The first flight took place on 17th December 1903. While the plane only remained in the air for 12 seconds, it was a historic breakthrough that would define future aviation."
+  }
+]
