@@ -1,13 +1,13 @@
-import React from 'react'
-import Slide from './Slide'
-import SlideContent from '../images.json'
+import React from 'react';
+import Slide from './Slide';
+import SlideContent from '../imagesnew.json';
 
-export default function SlideShow() {
+export default function SlideShow(props) {
   return (
     <>
       <div id="carouselExample" className="carousel slide" style={{ width: '95%' }}>
         <div className="carousel-inner">
-          {SlideContent.map((element) => {
+          {SlideContent[props.index].map((element) => {
             return (
               <div className={"carousel-item "+(element.id === 1 ? 'active' : '')} key={element.id}>
                 <div className="container">
