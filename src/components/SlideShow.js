@@ -1,32 +1,34 @@
-import React from 'react';
 import Slide from './Slide';
 import SlideContent from '../imagesnew.json';
+import Carousel from "react-material-ui-carousel";
+import photoFrame from '../images/home_images/photoframe.svg';
 
 export default function SlideShow(props) {
   return (
     <>
-      <div id="carouselExample" className="carousel slide" style={{ width: '95%' }}>
-        <div className="carousel-inner">
-          {SlideContent[props.index].map((element) => {
-            return (
-              <div className={"carousel-item "+(element.id === 1 ? 'active' : '')} key={element.id}>
-                <div className="container">
-                  <Slide image={element.imgUrl} title={element.title} content={element.description}/>
-                </div>
-              </div>
-            )
-          })}
+      <img src={photoFrame} style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', width: '800px' }} alt="" />
 
-        </div>
-        <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-          <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span className="visually-hidden">Previous</span>
-        </button>
-        <button className="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-          <span className="carousel-control-next-icon" aria-hidden="true"></span>
-          <span className="visually-hidden">Next</span>
-        </button>
-      </div>
+      <Carousel 
+      navButtonsWrapperProps={{   
+        style: {
+            bottom: '10px',
+            top: 'unset'
+        }
+      }} 
+      sx={{ position: 'absolute', top: '47%', left: '50.5%', transform: 'translate(-50%, -50%)', width: '520px', height: '330px' }} navButtonsAlwaysVisible={true} indicators={false}>
+        {
+          SlideContent[props.index].map( (image, i) => {if (i !== 0) return <Item key={i} image={image} />; } )
+        }
+      </Carousel>
     </>
+  )
+}
+
+function Item(props) {
+  return (
+    <div style={{ position: 'absolute', top: '47%', left: '50.5%', transform: 'translate(-50%, -50%)', width: '520px', height: '330px' }}>
+      <img src={props.image.imgUrl} alt={props.image.title} style={{ width: '100%', height: '100%' }} />
+      <p style={{position: 'absolute', bottom: '0', left: '0', right: '0', margin: 0, padding: '10px', backgroundColor: 'rgba(0, 0, 0, 0.5)', color: 'white' }}>{props.image.description}</p>
+    </div>
   )
 }

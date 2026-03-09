@@ -1,4 +1,4 @@
-[
+﻿[
   [ "The 1900s",
     {
       "id": 1,
@@ -101,7 +101,7 @@
       "id": 1,
       "imgUrl": "images/1920s/transatlantic_flight.jpg",
       "title": "Charles Lindbergh’s 1927 transatlantic flight",
-      "description": "Charles Lindbergh completed the first solo, nonstop transatlantic flight on May 20-21, 1927, flying from New York to Paris in his monoplane, the Spirit of St. Louis. His flight, which took 33.5 hours and covered 3,610 miles, made him an international hero and boosted public acceptance of commercial aviation."
+      "description": "Charles Lindbergh completed the first solo, nonstop transatlantic flight from New York to Paris in 33.5 hours, covering 3,610 miles in his monoplane the Spirit of St. Louis, making him an international hero and boosting commercial aviation."
     },
     {
       "id": 2,
@@ -119,7 +119,7 @@
       "id": 4,
       "imgUrl": "images/1920s/speech.avif",
       "title": "Lenin Addresses Red Army Soldiers",
-      "description": "The Russian revolutionary leader Vladimir Lenin gives a speech to Red Army soldiers leaving for the front during the Polish-Soviet War, in Sverdlov Square (now Theatre Square), in Moscow, on May 5, 1920. On the right side of the platform are People's Commissar Leon Trotsky and a Politburo member, Lev Kamenev."
+      "description": "Vladimir Lenin addresses Red Army soldiers during the Polish-Soviet War at Sverdlov Square in Moscow, May 5, 1920, with Leon Trotsky and Lev Kamenev visible on the platform."
     },
     {
       "id": 5,
@@ -139,14 +139,14 @@
       "id": 7,
       "imgUrl": "images/home_images/christmas.jpg",
       "title": "The Christmas Truce",
-      "description": "The above photograph highlights the tragedy of war. The soldiers mostly had no quarrel with the men they were fighting against. There was an unofficial ceasefire on the Western Front in Christmas 1914, during the First World War. On Christmas Eve and Christmas Day, many soldiers, on both sides, would venture onto “no man’s land”, where they would chat and exchange food and souvenirs. Plenty of football was also played on Christmas Day between troops from opposing armies, as the image above proves."
+      "description": "An unofficial ceasefire on the Western Front in December 1914 during WWI allowed soldiers to meet in no man's land, exchanging food and souvenirs. Many played football together on Christmas Day, showing humanity amid war's tragedy."
     },
 
     {
       "id": 8,
       "imgUrl": "images/home_images/martin_luther_king.jpg",
       "title": "\"I have a dream\"",
-      "description": "Martin Luther King, Jr. helped to organise the 1963 March on Washington, where he delivered the famous “I Have a Dream” speech, establishing himself as one of the greatest orators in history. He was pivotal in the advancement of civil rights using non-violent civil disobedience, which were based on his Christian beliefs."
+      "description": "Martin Luther King, Jr. led the 1963 March on Washington, delivering his iconic 'I Have a Dream' speech. He advanced civil rights through nonviolent disobedience rooted in Christian beliefs."
     },
     {
       "id": 9,
@@ -172,7 +172,7 @@
       "id": 2,
       "imgUrl": "images/1930s/dandi_march.jpg",
       "title": "Dandi march",
-      "description": "The Dandi March (or Salt March/Satyagraha) was a pivotal 24-day, 240-mile nonviolent protest led by Mahatma Gandhi in 1930, challenging Britain's unjust salt tax and monopoly by marching from Sabarmati Ashram to Dandi to illegally make salt from seawater, sparking India's mass Civil Disobedience Movement and uniting Indians against British rule through symbolic defiance."
+      "description": "Mahatma Gandhi's pivotal 240-mile nonviolent Salt March in 1930 challenged Britain's salt monopoly and sparked India's mass Civil Disobedience Movement, uniting Indians against British rule through symbolic protest."
     },
     {
       "id": 3,
@@ -184,7 +184,7 @@
       "id": 4,
       "imgUrl": "images/1930s/.jpg",
       "title": " The Steerage",
-      "description": "This image was taken by Alfred Stieglitz, one of the most famous photographers of the early 20th Century. Stieglitz fought for photography to be taken as seriously as painting as a valid art form. His iconic image “The Steerage” not only encapsulates what he called straight photography – offering a truthful take on the world. It also gives us a more complex and multi-layered viewpoint that conveys abstraction through the shapes in the image. And how those shapes relate to one another."
+      "description": "Alfred Stieglitz's iconic 'The Steerage' exemplifies straight photography, offering a truthful and multi-layered viewpoint through abstraction and the interplay of shapes in the composition."
     },
     {
       "id": 5,
@@ -211,7 +211,7 @@
       "id": 8,
       "imgUrl": "images/home_images/martin_luther_king.jpg",
       "title": "\"I have a dream\"",
-      "description": "Martin Luther King, Jr. helped to organise the 1963 March on Washington, where he delivered the famous “I Have a Dream” speech, establishing himself as one of the greatest orators in history. He was pivotal in the advancement of civil rights using non-violent civil disobedience, which were based on his Christian beliefs."
+      "description": "Martin Luther King, Jr. led the 1963 March on Washington, delivering his iconic 'I Have a Dream' speech. He advanced civil rights through nonviolent disobedience rooted in Christian beliefs."
     },
     {
       "id": 9,
@@ -231,25 +231,25 @@
       "id": 1,
       "imgUrl": "images/1940s/vjday_kiss.jpg",
       "title": "V-J Day Kiss in Times Square",
-      "description": "The picture portrays a U.S. Navy sailor grabbing and kissing a stranger—a woman in a white dress—on Victory over Japan Day (“V-J Day”) in New York City’s Times Square on August 14, 1945. The photograph was published a week later in Life magazine, among many photographs of celebrations around the United States that were presented in a twelve-page section titled “Victory Celebrations”. Soon It became a cultural icon."
+      "description": "A Navy sailor kisses a woman in Times Square on August 14, 1945, celebrating Victory over Japan Day. Published in Life magazine's 'Victory Celebrations,' it became an iconic symbol of war's end."
     },
     {
       "id": 2,
       "imgUrl": "images/1940s/aftermath.jpg",
       "title": "The Aftermath",
-      "description": "This image captures the devastating aftermath of the atomic bombing of Hiroshima, Japan, in August 1945, at the end of World War II. The photograph shows the ruins of the city, with buildings reduced to rubble and smoke rising in the distance. The bombing resulted in immense loss of life and long-term health effects for survivors, marking a significant and tragic moment in history."
+      "description": "This image shows Hiroshima's devastation after the atomic bombing in August 1945, with buildings reduced to rubble and smoke rising. The bombing caused immense loss of life and lasting health effects."
     },
     {
       "id": 3,
       "imgUrl": "images/1940s/founding_of_united_nations.jpg",
       "title": "Founding of the United Nations",
-      "description": "The San Francisco Conference, held from April 25 to June 26, 1945, was a pivotal event in the establishment of the United Nations. Delegates from 50 Allied nations gathered to draft the UN Charter, aiming to promote international cooperation and prevent future conflicts after the devastation of World War II. The conference resulted in the creation of the United Nations, which officially came into existence on October 24, 1945."
+      "description": "The San Francisco Conference (April-June 1945) brought 50 Allied nations' delegates to draft the UN Charter, promoting international cooperation and preventing future conflicts after WWII."
     },
     {
       "id": 4,
       "imgUrl": "images/1940s/tryst_with_destiny.jpg",
       "title": "Tryst with Destiny",
-      "description": "On the eve of India's independence from British rule, Jawaharlal Nehru delivered his iconic 'Tryst with Destiny' speech to the Constituent Assembly of India on August 14, 1947. In this historic address, Nehru eloquently articulated the aspirations and challenges facing the newly independent nation, emphasizing the need for unity, social justice, and progress as India embarked on its journey as a sovereign state."
+      "description": "Jawaharlal Nehru's iconic 'Tryst with Destiny' speech on August 14, 1947, articulated India's aspirations upon independence, emphasizing unity, social justice, and progress as a sovereign state."
     },
     {
       "id": 5,
@@ -263,25 +263,25 @@
       "id": 1,
       "imgUrl": "images/home_images/gandhi.jpg",
       "title": "Gandhi and his Chakra",
-      "description": "This iconic image was captured in 1946, when LIFE magazine’s first female photographer, Margaret Bourke-White. Before shooting what would become Gandhi’s most defining portrait, Bourke-White had to face an interesting challenge – if she were to photograph Gandhi at the spinning wheel, she had to learn how to use one herself. Not ready to give up on the rare photo opportunity, Bourke-White learnt how to use the wheel, and went on to capture Gandhi’s most enduring image."
+      "description": "Margaret Bourke-White, LIFE's first female photographer, learned to use a spinning wheel to photograph Gandhi's most defining portrait in 1946, capturing his most enduring image."
     },
     {
       "id": 2,
       "imgUrl": "images/home_images/chinese.jpg",
       "title": "Tank Man",
-      "description": "In one of the strongest statements of dissent, an unidentified Chinese man stood in front of a column of tanks on June 5th, 1989 – the morning after the Chinese military had suppressed the Tiananmen Square protests. The crackdown had resulted in the deaths of hundreds of student demonstrators in Beijing. Captured by at least five famous photographers including Stuart Franklin, the image became a symbol of resistance in the face of oppression. Franklin won the World Press Photo Award for Spot News for the image, which still faces heavy censorship in China."
+      "description": "An unidentified Chinese man stands before tanks on June 5, 1989, after military suppression of Tiananmen Square protests. Captured by photographers including Stuart Franklin, it symbolizes resistance to oppression."
     },
     {
       "id": 3,
       "imgUrl": "images/home_images/terror.jpg",
       "title": " The Terror of War",
-      "description": "Captured on June 8, 1972, by Associated Press photographer Nick Ut, this famous photograph presents the stark and harrowing reality of innocent victims of war. The Pulitzer Prize-winning image shows Vietnamese children running, injured from a napalm attack during the Vietnam War. The image was controversial for its full-frontal nudity, but many newspapers relaxed their policies on nudity to spread the anti-war image. At the centre of the photo is nine-year-old Kim Phuc, who ripped off her burning clothes while running. Nick Ut took the children to a hospital after photographing them, thereby saving their lives."
+      "description": "Nick Ut's Pulitzer Prize-winning 1972 image shows Vietnamese children fleeing a napalm attack. Nine-year-old Kim Phuc appears at center. Ut rushed them to hospital, saving lives while capturing war's horrors."
     },
     {
       "id": 4,
       "imgUrl": "images/home_images/steerage.jpg",
       "title": " The Steerage",
-      "description": "This image was taken by Alfred Stieglitz, one of the most famous photographers of the early 20th Century. Stieglitz fought for photography to be taken as seriously as painting as a valid art form. His iconic image “The Steerage” not only encapsulates what he called straight photography – offering a truthful take on the world. It also gives us a more complex and multi-layered viewpoint that conveys abstraction through the shapes in the image. And how those shapes relate to one another."
+      "description": "Alfred Stieglitz's iconic 'The Steerage' exemplifies straight photography, offering a truthful and multi-layered viewpoint through abstraction and the interplay of shapes in the composition."
     },
     {
       "id": 5,
@@ -326,261 +326,117 @@
   [ "The 1960s",
     {
       "id": 1,
-      "imgUrl": "images/home_images/gandhi.jpg",
-      "title": "Gandhi and his Chakra",
-      "description": "This iconic image was captured in 1946, when LIFE magazine’s first female photographer, Margaret Bourke-White. Before shooting what would become Gandhi’s most defining portrait, Bourke-White had to face an interesting challenge – if she were to photograph Gandhi at the spinning wheel, she had to learn how to use one herself. Not ready to give up on the rare photo opportunity, Bourke-White learnt how to use the wheel, and went on to capture Gandhi’s most enduring image."
+      "imgUrl": "images/1960s/martin-luther-king-in-washington-min.jpg",
+      "title": "'I Have A Dream'",
+      "description": "Martin Luther King Jr. gave his famous 'I Have A Dream' speech during the march. This speech is widely regarded as one of the greatest speeches in American history and was a defining moment in the civil rights movement."
     },
     {
       "id": 2,
-      "imgUrl": "images/home_images/chinese.jpg",
-      "title": "Tank Man",
-      "description": "In one of the strongest statements of dissent, an unidentified Chinese man stood in front of a column of tanks on June 5th, 1989 – the morning after the Chinese military had suppressed the Tiananmen Square protests. The crackdown had resulted in the deaths of hundreds of student demonstrators in Beijing. Captured by at least five famous photographers including Stuart Franklin, the image became a symbol of resistance in the face of oppression. Franklin won the World Press Photo Award for Spot News for the image, which still faces heavy censorship in China."
+      "imgUrl": "images/1960s/muhammad-ali.jpg",
+      "title": "A Legend in the Ring",
+      "description": "Muhammad Ali knocks out Sonny Liston after a one-minute-long championship match in Lewiston, Maine on May 25, 1965. Just seconds after the knockout, referee Joe Walcott holds Ali back. Ali's victory was a significant moment in sports history, showcasing his skill and charisma, and solidifying his status as one of the greatest boxers of all time."
     },
     {
       "id": 3,
-      "imgUrl": "images/home_images/terror.jpg",
-      "title": " The Terror of War",
-      "description": "Captured on June 8, 1972, by Associated Press photographer Nick Ut, this famous photograph presents the stark and harrowing reality of innocent victims of war. The Pulitzer Prize-winning image shows Vietnamese children running, injured from a napalm attack during the Vietnam War. The image was controversial for its full-frontal nudity, but many newspapers relaxed their policies on nudity to spread the anti-war image. At the centre of the photo is nine-year-old Kim Phuc, who ripped off her burning clothes while running. Nick Ut took the children to a hospital after photographing them, thereby saving their lives."
+      "imgUrl": "images/1960s/flag-moon.jpg",
+      "title": "One Giant Leap for Mankind",
+      "description": "On July 20, 1969, following the Space Race that had pitted the world's superpowers against each other for more than a decade, the U.S. became the first and only country to put a person on the Moon. Astronauts Neil Armstrong and Edward 'Buzz' Aldrin (pictured) walked the surface of the Moon for two minutes and 34 seconds — and in that brief time, made history."
     },
     {
       "id": 4,
-      "imgUrl": "images/home_images/steerage.jpg",
-      "title": " The Steerage",
-      "description": "This image was taken by Alfred Stieglitz, one of the most famous photographers of the early 20th Century. Stieglitz fought for photography to be taken as seriously as painting as a valid art form. His iconic image “The Steerage” not only encapsulates what he called straight photography – offering a truthful take on the world. It also gives us a more complex and multi-layered viewpoint that conveys abstraction through the shapes in the image. And how those shapes relate to one another."
-    },
-    {
-      "id": 5,
-      "imgUrl": "images/home_images/the falling man.jpg",
-      "title": "The Falling Man",
-      "description": "The man in this image is believed to be Jonathon Briley, who, like a number of people stuck on the burning Twin Towers on September 11, 2001, choosed to jump to his death from the tower. It was an image that immortalised the desperation of the situation for those trapped at the top of the Twin Towers after the attack. They were faced with a horrible dilemma, where jumping was the lesser of the two evils."
-    },
-
-    {
-      "id": 6,
-      "imgUrl": "images/home_images/holocaust.jpg",
-      "title": "The Holocaust",
-      "description": "The Holocaust is without doubt the worst atrocity in history, and resulted in the tragic loss of approximately 11 million people. 6 million of the victims were Jewish, and other groups targeted included homosexuals, Jehovah's Witnesses, disabled people and gypsies.The above photo shows the deplorable conditions the prisoners were forced to live in. May we never forget this abhorrent massacre of innocent lives."
-    },
-
-    {
-      "id": 7,
-      "imgUrl": "images/home_images/christmas.jpg",
-      "title": "The Christmas Truce",
-      "description": "The above photograph highlights the tragedy of war. The soldiers mostly had no quarrel with the men they were fighting against. There was an unofficial ceasefire on the Western Front in Christmas 1914, during the First World War. On Christmas Eve and Christmas Day, many soldiers, on both sides, would venture onto “no man’s land”, where they would chat and exchange food and souvenirs. Plenty of football was also played on Christmas Day between troops from opposing armies, as the image above proves."
-    },
-
-    {
-      "id": 8,
-      "imgUrl": "images/home_images/martin_luther_king.jpg",
-      "title": "\"I have a dream\"",
-      "description": "Martin Luther King, Jr. helped to organise the 1963 March on Washington, where he delivered the famous “I Have a Dream” speech, establishing himself as one of the greatest orators in history. He was pivotal in the advancement of civil rights using non-violent civil disobedience, which were based on his Christian beliefs."
-    },
-    {
-      "id": 9,
-      "imgUrl": "images/home_images/depression.png",
-      "title": "The Great Depression",
-      "description": "The women pictured above were arrested for stealing bread for their families during the Great Depression."
-    },
-    {
-      "id": 10,
-      "imgUrl": "images/home_images/the_wright_brothers.jpg",
-      "title": "The Wright Brothers",
-      "description": "Orville and Wilbur Wright were responsible for creating the world’s first successful airplane. The first flight took place on 17th December 1903. While the plane only remained in the air for 12 seconds, it was a historic breakthrough that would define future aviation."
+      "imgUrl": "images/1960s/alan-shepard.jpg",
+      "title": "First American in Space",
+      "description": "Rear Admiral Alan Bartlett 'Al' Shepard Jr. right before takeoff in May 1961. Shepard became the first American, and the second person ever, to travel into space. He was also the first to manually control a spacecraft. Shepard's historic flight lasted just 15 minutes, but it was a crucial step in the United States' efforts to catch up with the Soviet Union in the Space Race."
     }
   ],
   [ "The 1970s",
     {
       "id": 1,
-      "imgUrl": "images/home_images/gandhi.jpg",
-      "title": "Gandhi and his Chakra",
-      "description": "This iconic image was captured in 1946, when LIFE magazine’s first female photographer, Margaret Bourke-White. Before shooting what would become Gandhi’s most defining portrait, Bourke-White had to face an interesting challenge – if she were to photograph Gandhi at the spinning wheel, she had to learn how to use one herself. Not ready to give up on the rare photo opportunity, Bourke-White learnt how to use the wheel, and went on to capture Gandhi’s most enduring image."
+      "imgUrl": "images/1970s/apollo.avif",
+      "title": "The Crash of Apollo 13",
+      "description": "Just two days into its cardinal journey, the Apollo 13 spacecraft had to make an emergency landing in the South Pacific near Samoa. Millions of Americans watched as the lives of the three crew members hung in the balance for days on end."
     },
     {
       "id": 2,
-      "imgUrl": "images/home_images/chinese.jpg",
-      "title": "Tank Man",
-      "description": "In one of the strongest statements of dissent, an unidentified Chinese man stood in front of a column of tanks on June 5th, 1989 – the morning after the Chinese military had suppressed the Tiananmen Square protests. The crackdown had resulted in the deaths of hundreds of student demonstrators in Beijing. Captured by at least five famous photographers including Stuart Franklin, the image became a symbol of resistance in the face of oppression. Franklin won the World Press Photo Award for Spot News for the image, which still faces heavy censorship in China."
+      "imgUrl": "images/1970s/godfather_2.avif",
+      "title": "'The Godfather' wins at the 47th Academy Awards.",
+      "description": "The Godfather Part II is touted as one of the only films to escape the dismal trope of washed-up sequels, with many considering it vastly superior to its predecessor. The flick took home seven Oscars at the Dorothy Chandler Pavilion in April 1975."
     },
     {
       "id": 3,
-      "imgUrl": "images/home_images/terror.jpg",
-      "title": " The Terror of War",
-      "description": "Captured on June 8, 1972, by Associated Press photographer Nick Ut, this famous photograph presents the stark and harrowing reality of innocent victims of war. The Pulitzer Prize-winning image shows Vietnamese children running, injured from a napalm attack during the Vietnam War. The image was controversial for its full-frontal nudity, but many newspapers relaxed their policies on nudity to spread the anti-war image. At the centre of the photo is nine-year-old Kim Phuc, who ripped off her burning clothes while running. Nick Ut took the children to a hospital after photographing them, thereby saving their lives."
+      "imgUrl": "images/1970s/arthur_wins_wimbledon.avif",
+      "title": "Arthur Wins Wimbledon",
+      "description": "This image captures the moment when Arthur Ashe won the men's singles title at the 1968 Wimbledon Championships. Ashe became the first African American to win the tournament, breaking racial barriers in tennis."
     },
     {
       "id": 4,
-      "imgUrl": "images/home_images/steerage.jpg",
-      "title": " The Steerage",
-      "description": "This image was taken by Alfred Stieglitz, one of the most famous photographers of the early 20th Century. Stieglitz fought for photography to be taken as seriously as painting as a valid art form. His iconic image “The Steerage” not only encapsulates what he called straight photography – offering a truthful take on the world. It also gives us a more complex and multi-layered viewpoint that conveys abstraction through the shapes in the image. And how those shapes relate to one another."
-    },
-    {
-      "id": 5,
-      "imgUrl": "images/home_images/the falling man.jpg",
-      "title": "The Falling Man",
-      "description": "The man in this image is believed to be Jonathon Briley, who, like a number of people stuck on the burning Twin Towers on September 11, 2001, choosed to jump to his death from the tower. It was an image that immortalised the desperation of the situation for those trapped at the top of the Twin Towers after the attack. They were faced with a horrible dilemma, where jumping was the lesser of the two evils."
-    },
-
-    {
-      "id": 6,
-      "imgUrl": "images/home_images/holocaust.jpg",
-      "title": "The Holocaust",
-      "description": "The Holocaust is without doubt the worst atrocity in history, and resulted in the tragic loss of approximately 11 million people. 6 million of the victims were Jewish, and other groups targeted included homosexuals, Jehovah's Witnesses, disabled people and gypsies.The above photo shows the deplorable conditions the prisoners were forced to live in. May we never forget this abhorrent massacre of innocent lives."
-    },
-
-    {
-      "id": 7,
-      "imgUrl": "images/home_images/christmas.jpg",
-      "title": "The Christmas Truce",
-      "description": "The above photograph highlights the tragedy of war. The soldiers mostly had no quarrel with the men they were fighting against. There was an unofficial ceasefire on the Western Front in Christmas 1914, during the First World War. On Christmas Eve and Christmas Day, many soldiers, on both sides, would venture onto “no man’s land”, where they would chat and exchange food and souvenirs. Plenty of football was also played on Christmas Day between troops from opposing armies, as the image above proves."
-    },
-
-    {
-      "id": 8,
-      "imgUrl": "images/home_images/martin_luther_king.jpg",
-      "title": "\"I have a dream\"",
-      "description": "Martin Luther King, Jr. helped to organise the 1963 March on Washington, where he delivered the famous “I Have a Dream” speech, establishing himself as one of the greatest orators in history. He was pivotal in the advancement of civil rights using non-violent civil disobedience, which were based on his Christian beliefs."
-    },
-    {
-      "id": 9,
-      "imgUrl": "images/home_images/depression.png",
-      "title": "The Great Depression",
-      "description": "The women pictured above were arrested for stealing bread for their families during the Great Depression."
-    },
-    {
-      "id": 10,
-      "imgUrl": "images/home_images/the_wright_brothers.jpg",
-      "title": "The Wright Brothers",
-      "description": "Orville and Wilbur Wright were responsible for creating the world’s first successful airplane. The first flight took place on 17th December 1903. While the plane only remained in the air for 12 seconds, it was a historic breakthrough that would define future aviation."
+      "imgUrl": "images/1970s/steve_jobs_founded_apple.avif",
+      "title": "Steve Wozniak and Steve Jobs found Apple.",
+      "description": "In the garage of a Los Altos ranch home, the most impactful corporation in technology was conceived. The spring of 1976 brought Steve Wozniak and Steve Jobs to Jobs's childhood home to brainstorm a computer project that would snowball into the world's most valuable brand."
     }
   ],
   [ "The 1980s",
     {
       "id": 1,
-      "imgUrl": "images/home_images/gandhi.jpg",
+      "imgUrl": "images/1980s/first_space_shuttle.jpg",
       "title": "Gandhi and his Chakra",
-      "description": "This iconic image was captured in 1946, when LIFE magazine’s first female photographer, Margaret Bourke-White. Before shooting what would become Gandhi’s most defining portrait, Bourke-White had to face an interesting challenge – if she were to photograph Gandhi at the spinning wheel, she had to learn how to use one herself. Not ready to give up on the rare photo opportunity, Bourke-White learnt how to use the wheel, and went on to capture Gandhi’s most enduring image."
+      "description": "April 1981 saw the launch and successful return of the world’s first reusable spacecraft, the Space Shuttle Columbia. The Space Shuttle was designed to launch like a rocket, orbit like a spacecraft and land like a plane, making transport to and from Earth more efficient and affordable."
     },
     {
       "id": 2,
-      "imgUrl": "images/home_images/chinese.jpg",
-      "title": "Tank Man",
-      "description": "In one of the strongest statements of dissent, an unidentified Chinese man stood in front of a column of tanks on June 5th, 1989 – the morning after the Chinese military had suppressed the Tiananmen Square protests. The crackdown had resulted in the deaths of hundreds of student demonstrators in Beijing. Captured by at least five famous photographers including Stuart Franklin, the image became a symbol of resistance in the face of oppression. Franklin won the World Press Photo Award for Spot News for the image, which still faces heavy censorship in China."
+      "imgUrl": "images/1980s/first_version_of_windows.jpg",
+      "title": "The first version of Windows released in 1985",
+      "description": "When the first version of Microsoft’s now ubiquitous operating system, Windows, was released on 20 November 1985, it was met with an almost universal ‘meh.’ It was clunky and confusing, especially when compared with the more user-friendly graphical user interface developed by Apple for the Macintosh. But Bill Gates, the (then) young president of Microsoft, seen here in March of the same year, had the foresight to license his OS to other computer manufacturers, meaning it was used in office computers across the nation. By version 3.0, Windows was more user-friendly, transforming Microsoft into the trillion-dollar company it is today."
     },
     {
       "id": 3,
-      "imgUrl": "images/home_images/terror.jpg",
-      "title": " The Terror of War",
-      "description": "Captured on June 8, 1972, by Associated Press photographer Nick Ut, this famous photograph presents the stark and harrowing reality of innocent victims of war. The Pulitzer Prize-winning image shows Vietnamese children running, injured from a napalm attack during the Vietnam War. The image was controversial for its full-frontal nudity, but many newspapers relaxed their policies on nudity to spread the anti-war image. At the centre of the photo is nine-year-old Kim Phuc, who ripped off her burning clothes while running. Nick Ut took the children to a hospital after photographing them, thereby saving their lives."
+      "imgUrl": "images/1980s/greed_is_good.jpg",
+      "title": " Greed is Good",
+      "description": "The movie Wall Street was released on 11 December 1987 and quickly became a box office success around the world. Michael Douglas memorably played the central character of Gordon Gecko, a cigar smoking financial trader whose mantra 'Greed is Good' came to represent the excesses of the Eighties."
     },
     {
       "id": 4,
-      "imgUrl": "images/home_images/steerage.jpg",
-      "title": " The Steerage",
-      "description": "This image was taken by Alfred Stieglitz, one of the most famous photographers of the early 20th Century. Stieglitz fought for photography to be taken as seriously as painting as a valid art form. His iconic image “The Steerage” not only encapsulates what he called straight photography – offering a truthful take on the world. It also gives us a more complex and multi-layered viewpoint that conveys abstraction through the shapes in the image. And how those shapes relate to one another."
+      "imgUrl": "images/1980s/berlin_wall_falls.jpg",
+      "title": "The Berlin Wall is brought down",
+      "description": "Although it happened on the other side of the world, the fall of the Berlin Wall on 9 November 1989 and the subsequent breakup of the Soviet Union was very much the result of American foreign policy throughout the 1980s."
     },
     {
       "id": 5,
-      "imgUrl": "images/home_images/the falling man.jpg",
-      "title": "The Falling Man",
-      "description": "The man in this image is believed to be Jonathon Briley, who, like a number of people stuck on the burning Twin Towers on September 11, 2001, choosed to jump to his death from the tower. It was an image that immortalised the desperation of the situation for those trapped at the top of the Twin Towers after the attack. They were faced with a horrible dilemma, where jumping was the lesser of the two evils."
-    },
-
-    {
-      "id": 6,
-      "imgUrl": "images/home_images/holocaust.jpg",
-      "title": "The Holocaust",
-      "description": "The Holocaust is without doubt the worst atrocity in history, and resulted in the tragic loss of approximately 11 million people. 6 million of the victims were Jewish, and other groups targeted included homosexuals, Jehovah's Witnesses, disabled people and gypsies.The above photo shows the deplorable conditions the prisoners were forced to live in. May we never forget this abhorrent massacre of innocent lives."
-    },
-
-    {
-      "id": 7,
-      "imgUrl": "images/home_images/christmas.jpg",
-      "title": "The Christmas Truce",
-      "description": "The above photograph highlights the tragedy of war. The soldiers mostly had no quarrel with the men they were fighting against. There was an unofficial ceasefire on the Western Front in Christmas 1914, during the First World War. On Christmas Eve and Christmas Day, many soldiers, on both sides, would venture onto “no man’s land”, where they would chat and exchange food and souvenirs. Plenty of football was also played on Christmas Day between troops from opposing armies, as the image above proves."
-    },
-
-    {
-      "id": 8,
-      "imgUrl": "images/home_images/martin_luther_king.jpg",
-      "title": "\"I have a dream\"",
-      "description": "Martin Luther King, Jr. helped to organise the 1963 March on Washington, where he delivered the famous “I Have a Dream” speech, establishing himself as one of the greatest orators in history. He was pivotal in the advancement of civil rights using non-violent civil disobedience, which were based on his Christian beliefs."
-    },
-    {
-      "id": 9,
-      "imgUrl": "images/home_images/depression.png",
-      "title": "The Great Depression",
-      "description": "The women pictured above were arrested for stealing bread for their families during the Great Depression."
-    },
-    {
-      "id": 10,
-      "imgUrl": "images/home_images/the_wright_brothers.jpg",
-      "title": "The Wright Brothers",
-      "description": "Orville and Wilbur Wright were responsible for creating the world’s first successful airplane. The first flight took place on 17th December 1903. While the plane only remained in the air for 12 seconds, it was a historic breakthrough that would define future aviation."
+      "imgUrl": "images/1980s/lennon_murder.jpg",
+      "title": "John Lennon Murdered in 1980",
+      "description": "Shockwaves reverberated around the world on 8 December 1980 when John Lennon was brutally shot outside his apartment building in New York City. The former Beatle was returning to the Dakota Building with his wife Yoko Ono when his murderer stepped out of the shadows and fired five shots, hitting Lennon four times in the back and shoulder."
     }
   ],
   [ "The 1990s",
     {
       "id": 1,
-      "imgUrl": "images/home_images/gandhi.jpg",
-      "title": "Gandhi and his Chakra",
-      "description": "This iconic image was captured in 1946, when LIFE magazine’s first female photographer, Margaret Bourke-White. Before shooting what would become Gandhi’s most defining portrait, Bourke-White had to face an interesting challenge – if she were to photograph Gandhi at the spinning wheel, she had to learn how to use one herself. Not ready to give up on the rare photo opportunity, Bourke-White learnt how to use the wheel, and went on to capture Gandhi’s most enduring image."
+      "imgUrl": "images/1990s/hubble_telescope.jpg",
+      "title": "The Hubble Space Telescope is deployed in 1990",
+      "description": "Captured at Cape Canaveral, Florida, in April 1990, this cinematic photo shows Space Shuttle Discovery astronauts leaving HQ on the way to launch pad 39-B at Kennedy Space Center. "
     },
     {
       "id": 2,
-      "imgUrl": "images/home_images/chinese.jpg",
-      "title": "Tank Man",
-      "description": "In one of the strongest statements of dissent, an unidentified Chinese man stood in front of a column of tanks on June 5th, 1989 – the morning after the Chinese military had suppressed the Tiananmen Square protests. The crackdown had resulted in the deaths of hundreds of student demonstrators in Beijing. Captured by at least five famous photographers including Stuart Franklin, the image became a symbol of resistance in the face of oppression. Franklin won the World Press Photo Award for Spot News for the image, which still faces heavy censorship in China."
+      "imgUrl": "images/1990s/usa_host_world_cup.jpg",
+      "title": "The USA host the FIFA World Cup",
+      "description": "When soccer fans recall the World Cup 1994, a few things probably spring to mind. From Diana Ross missing a penalty at the opening ceremony to the scorching hot weather and Diego Maradona testing positive for banned substances, it wasn't a tournament short of talking points."
     },
     {
       "id": 3,
-      "imgUrl": "images/home_images/terror.jpg",
-      "title": " The Terror of War",
-      "description": "Captured on June 8, 1972, by Associated Press photographer Nick Ut, this famous photograph presents the stark and harrowing reality of innocent victims of war. The Pulitzer Prize-winning image shows Vietnamese children running, injured from a napalm attack during the Vietnam War. The image was controversial for its full-frontal nudity, but many newspapers relaxed their policies on nudity to spread the anti-war image. At the centre of the photo is nine-year-old Kim Phuc, who ripped off her burning clothes while running. Nick Ut took the children to a hospital after photographing them, thereby saving their lives."
+      "imgUrl": "images/1990s/friends_released.jpg",
+      "title": "Friends released in 1994",
+      "description": "Ross, Joey, Chandler, Phoebe, Rachel, and Monica are perhaps the most recognizable half a dozen character names on the planet. Television sitcom Friends first aired in 1994 and quickly became an international phenomenon."
     },
     {
       "id": 4,
-      "imgUrl": "images/home_images/steerage.jpg",
-      "title": " The Steerage",
-      "description": "This image was taken by Alfred Stieglitz, one of the most famous photographers of the early 20th Century. Stieglitz fought for photography to be taken as seriously as painting as a valid art form. His iconic image “The Steerage” not only encapsulates what he called straight photography – offering a truthful take on the world. It also gives us a more complex and multi-layered viewpoint that conveys abstraction through the shapes in the image. And how those shapes relate to one another."
+      "imgUrl": "images/1990s/toy_story.jpg",
+      "title": "Pixar's Toy Story changes animation forever",
+      "description": "'To infinity and beyond' was the immortal line uttered by the space ranger Buzz Lightyear in Pixar's classic animated movie Toy Story. In many ways, though, it's a piece of dialogue that reflects the extent to which this influential film would transform moviemaking forever."
     },
     {
       "id": 5,
-      "imgUrl": "images/home_images/the falling man.jpg",
-      "title": "The Falling Man",
-      "description": "The man in this image is believed to be Jonathon Briley, who, like a number of people stuck on the burning Twin Towers on September 11, 2001, choosed to jump to his death from the tower. It was an image that immortalised the desperation of the situation for those trapped at the top of the Twin Towers after the attack. They were faced with a horrible dilemma, where jumping was the lesser of the two evils."
-    },
-
-    {
-      "id": 6,
-      "imgUrl": "images/home_images/holocaust.jpg",
-      "title": "The Holocaust",
-      "description": "The Holocaust is without doubt the worst atrocity in history, and resulted in the tragic loss of approximately 11 million people. 6 million of the victims were Jewish, and other groups targeted included homosexuals, Jehovah's Witnesses, disabled people and gypsies.The above photo shows the deplorable conditions the prisoners were forced to live in. May we never forget this abhorrent massacre of innocent lives."
-    },
-
-    {
-      "id": 7,
-      "imgUrl": "images/home_images/christmas.jpg",
-      "title": "The Christmas Truce",
-      "description": "The above photograph highlights the tragedy of war. The soldiers mostly had no quarrel with the men they were fighting against. There was an unofficial ceasefire on the Western Front in Christmas 1914, during the First World War. On Christmas Eve and Christmas Day, many soldiers, on both sides, would venture onto “no man’s land”, where they would chat and exchange food and souvenirs. Plenty of football was also played on Christmas Day between troops from opposing armies, as the image above proves."
-    },
-
-    {
-      "id": 8,
-      "imgUrl": "images/home_images/martin_luther_king.jpg",
-      "title": "\"I have a dream\"",
-      "description": "Martin Luther King, Jr. helped to organise the 1963 March on Washington, where he delivered the famous “I Have a Dream” speech, establishing himself as one of the greatest orators in history. He was pivotal in the advancement of civil rights using non-violent civil disobedience, which were based on his Christian beliefs."
-    },
-    {
-      "id": 9,
-      "imgUrl": "images/home_images/depression.png",
-      "title": "The Great Depression",
-      "description": "The women pictured above were arrested for stealing bread for their families during the Great Depression."
-    },
-    {
-      "id": 10,
-      "imgUrl": "images/home_images/the_wright_brothers.jpg",
-      "title": "The Wright Brothers",
-      "description": "Orville and Wilbur Wright were responsible for creating the world’s first successful airplane. The first flight took place on 17th December 1903. While the plane only remained in the air for 12 seconds, it was a historic breakthrough that would define future aviation."
+      "imgUrl": "images/1990s/titanic_wins_11_oscars.jpg",
+      "title": "Titanic wins 11 Academy Awards",
+      "description": "The film Titanic, directed by James Cameron, won 11 Academy Awards in 1998, including Best Picture. The movie, which starred Leonardo DiCaprio and Kate Winslet, became a cultural phenomenon and remains one of the highest-grossing films of all time."
     }
   ]
 ]

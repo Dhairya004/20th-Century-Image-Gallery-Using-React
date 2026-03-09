@@ -1,9 +1,11 @@
 import React from 'react'
+import BackgroundCard from './BackgroundCard'
 
 export default function CardItem(props) {
   const cardItemStyle = {
     width: '150px',
     height: '180px',
+    backgroundColor: 'transparent',
   }
 
   const cardItemBodyStyle = {
@@ -11,7 +13,8 @@ export default function CardItem(props) {
     alignItems: 'center',
     justifyContent: 'center',
     padding: '4px',
-    fontSize: '20px'
+    fontSize: '20px',
+    backgroundColor: 'transparent'
   }
   return (
     <>
